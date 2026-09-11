@@ -2,7 +2,7 @@
 def recbubble(arr,i=None):
     if i is None:
         i = len(arr) - 1
-    if i<=1:
+    if i<1:
         return arr
     check=0
     for j in range(0,i):
@@ -13,4 +13,5 @@ def recbubble(arr,i=None):
         return arr
     return recbubble(arr,i-1)
 
-print(recbubble([12,9,1,4,2], 4))
+print(recbubble([12,9,1,4,2]))
+print(recbubble([2,1]))
