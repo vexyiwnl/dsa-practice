@@ -11,3 +11,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-09-11 | Sorting Techniques | Recursive bubble sort, Recursive insertion sort | |
 | 2026-09-12 | Arrays | Largest element, Second largest element, Check if array is sorted and rotated | |
 | 2026-09-14 | Arrays | Remove duplicates from sorted array, Rotate array right by k places | |
+| 2026-09-23 | Arrays | Move zeroes to end of array | |
