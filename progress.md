@@ -14,3 +14,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-09-22 | Arrays | Move zeroes to end of array, Linear search, Maximum consecutive ones | |
 | 2026-09-23 | Arrays | Find the missing number in an array, Union of two sorted arrays | |
 | 2026-09-24 | Arrays | Intersection of two sorted arrays, Majority element, Leaders in an array | |
+| 2026-09-25 | Arrays | Rearrange array elements by sign | |
