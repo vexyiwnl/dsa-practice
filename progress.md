@@ -15,3 +15,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-09-23 | Arrays | Find the missing number in an array, Union of two sorted arrays | |
 | 2026-09-24 | Arrays | Intersection of two sorted arrays, Majority element, Leaders in an array | |
 | 2026-09-25 | Arrays | Rearrange array elements by sign, Spiral order traversal of a matrix | |
+| 2026-10-02 | Arrays | Longest subarray with sum k | |
