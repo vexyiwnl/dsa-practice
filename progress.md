@@ -17,3 +17,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-09-25 | Arrays | Rearrange array elements by sign, Spiral order traversal of a matrix | |
 | 2026-10-02 | Arrays | Longest subarray with sum k | |
 | 2026-10-03 | Arrays | Two sum, Sort an array of 0s, 1s and 2s | |
+| 2026-10-09 | Arrays | Maximum subarray sum (Kadane's algorithm) | |
