@@ -19,3 +19,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-10-03 | Arrays | Two sum, Sort an array of 0s, 1s and 2s | |
 | 2026-10-09 | Arrays | Maximum subarray sum (Kadane's algorithm) | |
 | 2026-10-10 | Arrays | Best time to buy and sell stock, Next permutation | |
+| 2026-10-11 | Arrays | Replace elements with greatest element on right side | |
