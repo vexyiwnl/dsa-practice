@@ -21,3 +21,4 @@ Striver's A2Z Sheet | Python | Started 2 Sep 2026
 | 2026-10-10 | Arrays | Best time to buy and sell stock, Next permutation | |
 | 2026-10-11 | Arrays | Replace elements with greatest element on right side, Longest consecutive sequence | |
 | 2026-10-13 | Arrays | Set matrix zeroes, Rotate matrix by 90 degrees | |
+| 2026-10-15 | Arrays | Count subarrays with sum k | |
